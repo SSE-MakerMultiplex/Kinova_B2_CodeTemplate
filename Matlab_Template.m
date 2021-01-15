@@ -56,3 +56,6 @@ end
 
 
 %*******end here*******
+
+%discounting the robot
+isOk = gen3Kinova.DestroyRobotApisWrapper();
